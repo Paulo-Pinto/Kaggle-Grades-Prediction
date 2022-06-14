@@ -6,6 +6,6 @@
 
 create virtual environment 'venv' -> `python3 -m venv venv` or `python3.[version_number] -m venv venv`
 
-activate 'venv' -> Linux `source venv/bin/activate` | Window `. venv\scripts\activate`
+activate 'venv' -> Linux `source venv/bin/activate` | Windows `. venv\scripts\activate`
 
 install required packages -> `pip install -r requirements.txt`
