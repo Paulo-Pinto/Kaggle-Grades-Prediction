@@ -128,4 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-/data/prediction_165*
+/data/
+!/data/sample_submission.csv
+!/data/student_data.csv
+!/data/test_data.csv
+other.ipynb
