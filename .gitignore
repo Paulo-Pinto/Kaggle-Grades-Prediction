@@ -132,4 +132,6 @@ dmypy.json
 !/data/sample_submission.csv
 !/data/student_data.csv
 !/data/test_data.csv
+!/data/prediction_rmse_2.655_forestseed_521759.csv
+
 other.ipynb

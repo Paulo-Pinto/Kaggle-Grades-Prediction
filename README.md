@@ -1,4 +1,4 @@
-# [nome equipa] - A minha nota (Kaggle)
+# Batatinhas123 - A minha nota (Kaggle)
 
 ## João Ferreira - 21905985; Paulo Pinto - 21906966
 
